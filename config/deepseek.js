@@ -4,7 +4,7 @@ const DeepSeekConfig = {
   baseURL: 'https://api.deepseek.com/v1/chat/completions',
   
   // API Key - 请替换为您的实际API Key
-  apiKey: 'sk-0e22f782f0de4a0d98cd6baae7afc536',
+  apiKey: '',
   
   // 模型配置
   model: 'deepseek-chat',

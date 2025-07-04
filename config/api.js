@@ -1,4 +1,4 @@
-const ApiRootUrl = 'https://hdu.hokkaiink.top/api/';
+const ApiRootUrl = '';
 
 module.exports = {
   IndexUrl: ApiRootUrl + 'index/index', //首页数据接口
